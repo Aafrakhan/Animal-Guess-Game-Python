@@ -71,5 +71,4 @@ This project helped me practice:
 **Aafra Khan**
 GitHub: [@Aafrakhan](https://github.com/Aafrakhan)
 
----
 ⭐ If you liked this project, feel free to star the repo!
