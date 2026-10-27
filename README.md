@@ -56,7 +56,7 @@ Your Score is 5
 
 ## 🛠️ Built With
 
-- **Python** — core game logic, functions, loops, and conditionals
+- **Python** core game logic, functions, loops, and conditionals
 
 ## 📚 What I Learned
 
