@@ -4,7 +4,7 @@ A simple command-line trivia game built in Python where players answer fun anima
 
 ## 📋 About the Project
 
-Animal Guess Game is a text-based quiz that tests your knowledge of animal facts — from the fastest land animal to the smallest creature on Earth. It was built to practice core Python concepts like functions, loops, conditionals, and global variables.
+Animal Guess Game is a text-based quiz that tests your knowledge of animal facts from the fastest land animal to the smallest creature on Earth. It was built to practice core Python concepts like functions, loops, conditionals, and global variables.
 
 ## ✨ Features
 
